@@ -17,7 +17,7 @@ port. Notably, I decided to forgo using screws to secure the top and bottom part
 hole in the bottom of the case. This makes the prototyping process easier and allows me to qucikly clean the internals of the macropad if need be. I applied a chamfer to the 4 studs to ensure they smoothly slot into the bottom of the case. I also included 
 an elevated platform support for the pcb to rest on in the enclosure. 
 
-<img width="1208" height="769" alt="image" src="https://github.com/user-attachments/assets/012a66c5-c76f-494a-8cf4-2760b10ca442" />
+<img width="1179" height="778" alt="image" src="https://github.com/user-attachments/assets/ac5fe3cb-1657-435f-be76-f5aa5a3617e7" />
 
 <img width="1169" height="780" alt="image" src="https://github.com/user-attachments/assets/6934eb34-03ed-4034-9330-56a760c23162" />
 
