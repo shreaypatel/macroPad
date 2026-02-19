@@ -28,12 +28,8 @@ BOM:
 **BOM:**
 
 * 1 x 3D printed case
-* 
 * 1 x SEEED XIAO RP2040
-* 
 * 4 x CHERRY MX keyswitches
-* 
 * 1 x EC11 rotary encoder
-* 
 * 6 x 1N4148 diodes
 
