@@ -25,9 +25,9 @@ This concludes my design process. Overall, I had a lot of fun making this projec
 
 BOM: 
 
-1 x 3D printed case
-1 x SEEED XIAO RP2040
-4 x CHERRY MX keysiwtches
-1 x EC11 rotary encoders
-6 x 1N4148 diodes
+*1 x 3D printed case
+*1 x SEEED XIAO RP2040
+*4 x CHERRY MX keysiwtches
+*1 x EC11 rotary encoders
+*6 x 1N4148 diodes
 
