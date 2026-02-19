@@ -22,3 +22,12 @@ an elevated platform support for the pcb to rest on in the enclosure.
 <img width="1169" height="780" alt="image" src="https://github.com/user-attachments/assets/6934eb34-03ed-4034-9330-56a760c23162" />
 
 This concludes my design process. Overall, I had a lot of fun making this project and I would say my favourite part was learning how to use KiCad to design PCBs for the first time. 
+
+BOM: 
+
+1 x 3D printed case
+1 x SEEED XIAO RP2040
+4 x CHERRY MX keysiwtches
+1 x EC11 rotary encoders
+6 x 1N4148 diodes
+
