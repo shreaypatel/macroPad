@@ -19,7 +19,8 @@ an elevated platform support for the pcb to rest on in the enclosure.
 
 <img width="1179" height="778" alt="image" src="https://github.com/user-attachments/assets/ac5fe3cb-1657-435f-be76-f5aa5a3617e7" />
 
-<img width="1169" height="780" alt="image" src="https://github.com/user-attachments/assets/6934eb34-03ed-4034-9330-56a760c23162" />
+<img width="1351" height="792" alt="image" src="https://github.com/user-attachments/assets/b0640d0f-8272-4f4b-bda4-83df09bca765" />
+
 
 This concludes my design process. Overall, I had a lot of fun making this project and I would say my favourite part was learning how to use KiCad to design PCBs for the first time. Here is the onshape document link: https://cad.onshape.com/documents/c0725aa56d0443495cbb7afd/w/927aa1fb6a4206026ca4e494/e/183a6f23183eff95dca8855f
 
