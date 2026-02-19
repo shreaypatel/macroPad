@@ -23,7 +23,6 @@ an elevated platform support for the pcb to rest on in the enclosure.
 
 This concludes my design process. Overall, I had a lot of fun making this project and I would say my favourite part was learning how to use KiCad to design PCBs for the first time. 
 
-BOM: 
 
 **BOM:**
 
