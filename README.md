@@ -8,9 +8,10 @@ ghosting. Lastly, I set up a rotary rotary encoder switch for the zoom function 
 With the schematic complete I moved onto routing the connections on the actual pcb. I also 
 organized the layout of the pcb at this stage and ensured that all connections were wired up properly. 
 
-<img width="514" height="850" alt="image" src="https://github.com/user-attachments/assets/ca1035a5-1f19-41fe-a394-f371b9bf4fcd" />
+<img width="489" height="854" alt="image" src="https://github.com/user-attachments/assets/955d9716-9c80-4eac-86df-a1c72fcec336" />
 
-<img width="690" height="901" alt="image" src="https://github.com/user-attachments/assets/f08e7945-780c-47d3-8896-8960d0510685" />
+<img width="544" height="855" alt="image" src="https://github.com/user-attachments/assets/177bbfd9-01cf-45a2-a32e-6a3f0fd1c083" />
+
 
 With the elctrical side of things completed I moved onto desiging the 3D printed enclosure for the macropad. Here I built a minimalistic case with cutouts for the switches and rotary encoder switch. I also created a cutout for the USB C connection
 port. Notably, I decided to forgo using screws to secure the top and bottom parts of the enclosure. Instead I opted for a press fit conneciton with 4 3D printed studs that connect directly to the top part of the case. These slot into a square shaped
