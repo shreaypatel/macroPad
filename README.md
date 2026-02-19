@@ -32,3 +32,8 @@ This concludes my design process. Overall, I had a lot of fun making this projec
 * 1 x EC11 rotary encoder
 * 6 x 1N4148 diodes
 
+Final Image of CAD and electronics together: 
+<img width="805" height="618" alt="image" src="https://github.com/user-attachments/assets/5adfbbfd-ad3b-4215-b216-b3945e598eed" />
+
+
+
