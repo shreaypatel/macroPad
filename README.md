@@ -10,7 +10,7 @@ organized the layout of the pcb at this stage and ensured that all connections w
 
 <img width="514" height="850" alt="image" src="https://github.com/user-attachments/assets/ca1035a5-1f19-41fe-a394-f371b9bf4fcd" />
 
-<img width="851" height="835" alt="image" src="https://github.com/user-attachments/assets/be26fa7c-f9e2-4c8d-9f92-16f796d67c12" />
+<img width="690" height="901" alt="image" src="https://github.com/user-attachments/assets/f08e7945-780c-47d3-8896-8960d0510685" />
 
 With the elctrical side of things completed I moved onto desiging the 3D printed enclosure for the macropad. Here I built a minimalistic case with cutouts for the switches and rotary encoder switch. I also created a cutout for the USB C connection
 port. Notably, I decided to forgo using screws to secure the top and bottom parts of the enclosure. Instead I opted for a press fit conneciton with 4 3D printed studs that connect directly to the top part of the case. These slot into a square shaped
