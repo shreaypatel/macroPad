@@ -5,7 +5,8 @@ ghosting. Lastly, I set up a rotary rotary encoder switch for the zoom function 
 
 <img width="1221" height="772" alt="image" src="https://github.com/user-attachments/assets/6c0617dc-1950-4ecb-9920-b5c58a72b2f9" />
 
-With the schematic complete I moved onto routing the connections on the actual pcb. I also organized the layout of the pcb at this stage and ensured that all connections were wired up properly. 
+With the schematic complete I moved onto routing the connections on the actual pcb. I also 
+organized the layout of the pcb at this stage and ensured that all connections were wired up properly. 
 
 <img width="518" height="812" alt="image" src="https://github.com/user-attachments/assets/2d3e9a1c-aadf-4603-be55-06a77f5ea1c2" />
 
