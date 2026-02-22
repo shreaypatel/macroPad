@@ -8,14 +8,19 @@ ghosting. Lastly, I set up a rotary rotary encoder switch for the zoom function 
 With the schematic complete I moved onto routing the connections on the actual pcb. I also 
 organized the layout of the pcb at this stage and ensured that all connections were wired up properly. 
 
+<img width="485" height="854" alt="image" src="https://github.com/user-attachments/assets/5d9a9af9-c062-457c-ad8f-066960590c64" />
+
+<img width="582" height="926" alt="image" src="https://github.com/user-attachments/assets/106eb868-745d-41f3-bc89-f40febc59621" />
+
+
 With the elctrical side of things completed I moved onto desiging the 3D printed enclosure for the macropad. Here I built a minimalistic case with cutouts for the switches and rotary encoder switch. I also created a cutout for the USB C connection
 port. Notably, I decided to forgo using screws to secure the top and bottom parts of the enclosure. Instead I opted for a press fit conneciton with 4 3D printed studs that connect directly to the top part of the case. These slot into a square shaped
 hole in the bottom of the case. This makes the prototyping process easier and allows me to qucikly clean the internals of the macropad if need be. I applied a chamfer to the 4 studs to ensure they smoothly slot into the bottom of the case. I also included 
-an elevated platform support for the pcb to rest on in the enclosure. 
+an elevated platform support for the pcb to rest on in the enclosure. Superglue can also be used to more securely attach the pins into their respective holes. 
 
-<img width="1179" height="778" alt="image" src="https://github.com/user-attachments/assets/ac5fe3cb-1657-435f-be76-f5aa5a3617e7" />
+<img width="961" height="713" alt="image" src="https://github.com/user-attachments/assets/fcf53d8f-c5ea-4422-b951-dd61d7028995" />
 
-<img width="1351" height="792" alt="image" src="https://github.com/user-attachments/assets/b0640d0f-8272-4f4b-bda4-83df09bca765" />
+<img width="779" height="759" alt="image" src="https://github.com/user-attachments/assets/41bbfcbc-2dc1-4e9d-af2d-26f684eab307" />
 
 
 This concludes my design process. Overall, I had a lot of fun making this project and I would say my favourite part was learning how to use KiCad to design PCBs for the first time. Here is the onshape document link: https://cad.onshape.com/documents/c0725aa56d0443495cbb7afd/w/927aa1fb6a4206026ca4e494/e/183a6f23183eff95dca8855f
@@ -30,7 +35,8 @@ This concludes my design process. Overall, I had a lot of fun making this projec
 * 6 x 1N4148 diodes
 
 Final Image of CAD and electronics together: 
-<img width="805" height="618" alt="image" src="https://github.com/user-attachments/assets/5adfbbfd-ad3b-4215-b216-b3945e598eed" />
+<img width="1020" height="720" alt="image" src="https://github.com/user-attachments/assets/d50def15-8522-4cf8-9b10-86c30bb4e499" />
+
 
 
 
