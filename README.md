@@ -1,7 +1,7 @@
 This repository contains the relevant documentation for my custom macropad project. I designed this macropad to be slim, portable and minimalist to match my use case needs. I will primarily use it for onshape CAD shortcuts, 
 but I am looking to explore setting up a different mode on it for KiCad shortcuts. The macropad connects to a computer via usb c. I began my design process with the wiring of the schematic. Here I opted for a 3x2 keyboard matrix 
 to set up the switch connections. This takes up less input connections on the microcontroller while allowing me to customize 6 individual cherry mx switches. Next, I connected the diodes in between the switches to prevent keyboard
-ghosting. Lastly, I set up a rotary rotary encoder switch for the zoom function on onshape CAD. This is the ****CAD onshape source file https://cad.onshape.com/documents/c0725aa56d0443495cbb7afd/w/927aa1fb6a4206026ca4e494/e/183a6f23183eff95dca8855f ****
+ghosting. Lastly, I set up a rotary rotary encoder switch for the zoom function on onshape CAD. This is the **CAD onshape source file https://cad.onshape.com/documents/c0725aa56d0443495cbb7afd/w/927aa1fb6a4206026ca4e494/e/183a6f23183eff95dca8855f**
 
 <img width="1221" height="772" alt="image" src="https://github.com/user-attachments/assets/6c0617dc-1950-4ecb-9920-b5c58a72b2f9" />
 
